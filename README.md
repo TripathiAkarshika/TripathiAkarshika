@@ -5,7 +5,7 @@ Full Stack & AI/ML Engineer · 5+ years building production systems with Python,
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/akarshika-tripathi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://huggingface.co/YOUR-HF-USERNAME"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?logoColor=black" alt="Hugging Face"/></a>
   <a href="https://www.kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"/></a>
