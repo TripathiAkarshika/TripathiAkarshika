@@ -36,13 +36,13 @@ Full Stack & AI/ML Engineer · 5+ years building production systems with Python,
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Text-to-SQL Fine-Tuning](https://github.com/YOUR-USERNAME/REPO)** | QLoRA fine-tune of Qwen2.5-3B for text-to-SQL. Improved exact-match accuracy from 3% to 75%. Model published on Hugging Face, training notebook on Kaggle. | PyTorch, PEFT/QLoRA, Hugging Face |
-| **[DocuGenie](https://github.com/YOUR-USERNAME/REPO)** | Live document Q&A app powered by an LLM + RAG pipeline. | Python, LangChain, React |
-| **[AIBI](https://github.com/YOUR-USERNAME/REPO)** | Live AI-powered business intelligence tool for natural-language data analysis. | Python, Node.js, SQL |
+| **[Text-to-SQL Fine-Tuning](https://github.com/TripathiAkarshika/qwen-text2sql-lora)** | QLoRA fine-tune of Qwen2.5-3B for text-to-SQL. Improved exact-match accuracy from 3% to 75%. Model published on Hugging Face, training notebook on Kaggle. | PyTorch, PEFT/QLoRA, Hugging Face |
+| **[DocuGenie](https://docu-genie-ai.vercel.app/)** | Live document Q&A app powered by an LLM + RAG pipeline. | Python, LangChain, React |
+| **[AIBI](https://www.apiaibi.info/)** | Live AI-powered business intelligence tool for natural-language data analysis. | Python, Node.js, SQL |
 
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TripathiAkarshika&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TripathiAkarshika&layout=compact&hide_border=true" alt="Top languages" height="160"/>
 </p>
