@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akarshika Tripathi 👋</h1>
 
 <p align="center">
-Full Stack & AI/ML Engineer · 5+ years building production systems with Python, Node.js, and AWS · Seattle, WA
+Full Stack & AI/ML Engineer · building production systems with Python, Node.js, and AWS · Seattle, WA
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Full Stack & AI/ML Engineer · 5+ years building production systems with Python,
 - 🔭 I build full stack applications and LLM-powered systems end to end: React frontends, Node.js/Python backends, and cloud infrastructure on AWS and Azure
 - 🧠 Recent focus: fine-tuning open-source LLMs and building RAG pipelines
 - 🎓 M.S. in Information Technology, Northern Arizona University (Dec 2025, 4.0 GPA)
-- 📍 Seattle, WA · open to relocation and remote roles
+- 📍 Flagstaff, AZ · open to relocation and remote roles
 
 ### Tech stack
 
