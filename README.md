@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akarshika Tripathi 👋</h1>
 
 <p align="center">
-Full Stack & AI/ML Engineer · building production systems with Python, Node.js, and AWS · Seattle, WA
+Full Stack & AI/ML Engineer · building production systems with Python, Node.js, and AWS · Flagstaff, AZ
 </p>
 
 <p align="center">
